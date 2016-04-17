@@ -1,0 +1,9 @@
+[submodule "homework3-Faing1978"]
+	path = homework3-Faing1978
+	url = https://github.com/gsoc2016/homework3-Faing1978
+[submodule "homework3-flouberry2"]
+	path = homework3-flouberry2
+	url = https://github.com/gsoc2016/homework3-flouberry2
+[submodule "homework3-dinever-test"]
+	path = homework3-dinever-test
+	url = https://github.com/gsoc2016/homework3-dinever-test
